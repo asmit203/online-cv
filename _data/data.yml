@@ -124,19 +124,19 @@ projects:
       This are the projects done by me
     assignments:
       - title: Neural Activity Classifier (DL & Time series Analysis)
-        link: "#hook"
+        link: "https://github.com/asmit203/PYTHON/tree/master/machinelearning%20py/time_series/eeg/binary_classifier"
         tagline: "This Model can classify using EEG data if a specified action is undertaken or thought of by the patient or not."
 
       - title: Assembler and Emulator (Computer Architecture) 
-        link: "#"
+        link: "#https://github.com/asmit203/assembler-emu"
         tagline: "The Assembler can convert an assembly level language which is also specially designed with a set of instruction and emulator"
 
       - title: Question Answering System(NLP) 
-        link: "#"
+        link: "https://colab.research.google.com/drive/1rmxpZRK4XNOonFZcmwUrk-r-tW3yyoPF?usp=sharing"
         tagline: "Finding answers from a given passage – Devrev Problem statement Inter IIT 11.0 (Gold medalist)"
 
       - title: Patient Monitor Digitizer (DL & CV) 
-        link: "#"
+        link: "https://colab.research.google.com/drive/1eKIVrIWmh6Z6g47TiuLICcboPMsDmpk2?usp=sharing"
         tagline: "To digitize the information from patient’s information monitor from picture of it."
 
       - title: LostFound (Android App) 
