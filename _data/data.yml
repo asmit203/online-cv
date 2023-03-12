@@ -1,0 +1,234 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Asmit Ganguly
+    tagline: undergraduate Student (IIT Patna CSE)
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: asmit.ganguly@gmail.com
+    phone: +91 8918473362
+    timezone: Asia/Kolkata
+    citizenship: Indian
+    website: blog.webjeda.com #do not add http://
+    linkedin: asmit-ganguly
+    xing: 
+    github: asmit203
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@Asmit15598559'
+    stack-overflow: 766555/asmit # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://drive.google.com/file/d/1-Za2j8KOL3eug0aRglL6ohWCrZHnf1NA/view?usp=sharing
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: Hindi
+          level: Native
+
+        - idiom: Bengali
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Painting
+          link:
+
+        - item: Swimming
+          link:
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+     Qualified JEE Advanced with a rank of 3961(AIR).Currently studying Computer Science Engineering in Indian Institute of Technology Patna (B.Tech 4 yrs).
+education:
+    title: Education
+    info:
+      - degree: B.Tech Computer Science Engineering
+        university: Indian Institute of Technology Patn
+        time: 2021 - present
+        details: |
+          -Current CPI: 9.72/10
+          -Max SPI: 9.93/10
+      - degree: Senior Secondary
+        university: Kendriya Vidyalaya Birbhum
+        time: 2021
+        details: |
+          -Final Marks precentage: 97.6%
+          
+      - degree: Secondary
+        university: Kendriya Vidyalaya Birbhum
+        time: 2019
+        details: |
+          -Final Marks precentage: 97.2%
+
+# experiences:
+#     title: Acheivements
+#     info:
+#       - role: Lead Developer
+#         time: 2015 - Present
+#         company: Startup Hubs, San Francisco
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#           error sit voluptatem accusantium doloremque laudantium, totam rem
+#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#           architecto beatae vitae dicta sunt explicabo.
+#             - Bullet point
+#             - Bullet point
+#       - role: Senior Software Engineer
+#         time: 2014 - 2015
+#         company: Google, London
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+#       - role: UI Developer
+#         time: 2012 - 2014
+#         company: Amazon, London
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+projects:
+    title: Projects
+    intro: >
+      This are the projects done by me
+    assignments:
+      - title: Neural Activity Classifier (DL & Time series Analysis)
+        link: "#hook"
+        tagline: "This Model can classify using EEG data if a specified action is undertaken or thought of by the patient or not."
+
+      - title: Assembler and Emulator (Computer Architecture) 
+        link: "#"
+        tagline: "The Assembler can convert an assembly level language which is also specially designed with a set of instruction and emulator"
+
+      - title: Question Answering System(NLP) 
+        link: "#"
+        tagline: "Finding answers from a given passage – Devrev Problem statement Inter IIT 11.0 (Gold medalist)"
+
+      - title: Patient Monitor Digitizer (DL & CV) 
+        link: "#"
+        tagline: "To digitize the information from patient’s information monitor from picture of it."
+
+      - title: LostFound (Android App) 
+        link: "https://github.com/asmit203/lostfound"
+        tagline: "Android App for Lost and Found sytem making finding lost items easier"
+         
+      - title: ProSol (NLP and Multi-Class Clssification) 
+        link: "https://github.com/asmit203/SIH-2022-DR710-PROSOL"
+        tagline: "Developed Web-Site for Career Prediction and resume segregation into 25 job profiles(SIH 2022 Finalist)"
+         
+      - title: Talkitout (WebApp)
+        link: "https://github.com/asmit203/TalkitOut"
+        tagline: "Developed blogging site to post contents."
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C/C++
+        level: 80%
+
+      - name: Tensorflow
+        level: 75%
+
+      - name: Pytorch
+        level: 60%
+
+      - name: Scikit-Learn
+        level: 75%
+
+      - name: Keras
+        level: 70%
+
+      - name: HTML5 & CSS & XML
+        level: 70%
+
+      - name: Python & Django
+        level: 70%
+
+      - name: Kotlin
+        level: 70%
+
+      - name: SQL
+        level: 90%
+      
+      - name: Firebase
+        level: 50%
+         
+      - name: Numpy, Pandas & Scipy
+        level: 90%
+
+
+footer: >
+    
