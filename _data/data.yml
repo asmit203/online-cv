@@ -64,19 +64,19 @@ education:
         university: Indian Institute of Technology Patn
         time: 2021 - present
         details: |
-          -Current CPI: 9.72/10
-          -Max SPI: 9.93/10
+          - Current CPI: 9.72/10 
+          - Max SPI: 9.93/10
       - degree: Senior Secondary
         university: Kendriya Vidyalaya Birbhum
         time: 2021
         details: |
-          -Final Marks precentage: 97.6%
+          - Final Marks precentage: 97.6%
           
       - degree: Secondary
         university: Kendriya Vidyalaya Birbhum
         time: 2019
         details: |
-          -Final Marks precentage: 97.2%
+          - Final Marks precentage: 97.2%
 
 # experiences:
 #     title: Acheivements
