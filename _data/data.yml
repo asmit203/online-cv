@@ -151,16 +151,14 @@ projects:
         link: "https://github.com/asmit203/TalkitOut"
         tagline: "Developed blogging site to post contents."
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+    title: OSS Contributions
+    intro: >
+      Made an opensource Social media platform.
+    contributions:
+      - title: TalkitOut
+        link: "https://github.com/asmit203/TalkitOut"
+        tagline: "This is a Full fledge Social Media Platform and on top of it is opensource so very less privacy concern."
 
 #       - title: Atom
 #         link: "#"
@@ -170,17 +168,17 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs
+        link: "#"
+        authors: Madhusudan Ghosh, Shrimon Mukherjee, Asmit Ganguly, Partha Basuchowdhuria, Sudip Kumar Naskard, Debasis Ganguly
+        conference: Methods Journal, 2024
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
